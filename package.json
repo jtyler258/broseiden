@@ -1,6 +1,6 @@
 {
   "name": "broseiden",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates a random \"bro\" name, ex: broseiden, Han Brolo, etc..",
   "main": "index.js",
   "scripts": {
