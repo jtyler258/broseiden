@@ -1,0 +1,28 @@
+{
+  "name": "broseiden",
+  "version": "1.0.0",
+  "description": "Generates a random \"bro\" name, ex: broseiden, Han Brolo, etc..",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtyler258/broseiden.git"
+  },
+  "keywords": [
+    "bro",
+    "names",
+    "funny"
+  ],
+  "author": "John Tyler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtyler258/broseiden/issues"
+  },
+  "homepage": "https://github.com/jtyler258/broseiden#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "test": "^0.6.0"
+  }
+}
