@@ -26,5 +26,9 @@ const BroList = [
 	'Broseph Stalin',
 	'Abroham Lincoln',
 	'Brorack Bromama',
-	'Brorannasaurs Rex'
+	'Brorannasaurs Rex',
+	'Brodo Baggins',
+	'Brolicious',
+	'Brogaine',
+	'Bro-yo'
 ];
